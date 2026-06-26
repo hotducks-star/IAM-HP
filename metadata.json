@@ -1,0 +1,6 @@
+{
+  "name": "주식회사 아이엠",
+  "description": "기록물 관리 및 데이터베이스(DB) 구축 전문 기업 주식회사 아이엠의 공식 소개 랜딩페이지",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
