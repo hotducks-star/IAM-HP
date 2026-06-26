@@ -110,7 +110,7 @@ export default function Contact() {
             <div className="bg-white rounded-2xl p-6 sm:p-8 border border-gray-100 shadow-sm space-y-6">
               <h3 className="text-xl font-bold text-gray-900">본사 및 연락처 정보</h3>
               <p className="text-sm text-gray-500 leading-relaxed font-normal">
-                주식회사 아이엠은 수원 현대테라타워에 위치해 있으며, 상담을 요청하시면 기록물관리전문가가 연락 또는 방문하여 도움을 드립니다.
+                주식회사 아이엠은 수원 영통구 현대테라타워지식산업센터에 위치해 있으며, 상담을 요청하시면 기록물관리전문가가 연락 또는 방문하여 도움을 드립니다.
               </p>
 
               <div className="space-y-5 pt-2">

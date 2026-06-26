@@ -120,7 +120,7 @@ export default function Hero() {
                 onClick={(e) => handleCtaClick(e, "#contact")}
                 className="inline-flex items-center justify-center px-6 py-3.5 rounded-xl bg-blue-600 text-white font-medium hover:bg-blue-700 transition-all shadow-lg shadow-blue-100 group"
               >
-                무료 이관·구축 상담
+                구축·이관 상담
                 <ArrowRight className="w-4.5 h-4.5 ml-2 transition-transform group-hover:translate-x-1" />
               </a>
               <a
