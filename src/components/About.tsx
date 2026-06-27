@@ -25,7 +25,7 @@ export default function About() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         
         {/* Section Header */}
-        <div className="text-center max-w-3xl mx-auto mb-16 md:mb-20">
+        <div className="text-center max-w-4xl mx-auto mb-16 md:mb-20">
           <h2 className="text-xs font-bold text-blue-600 uppercase tracking-widest">ABOUT US</h2>
           <p className="mt-3 text-3xl sm:text-4xl font-extrabold text-gray-900 tracking-tight">
             신뢰와 기술로 기록의 가치를 더합니다
@@ -33,7 +33,7 @@ export default function About() {
           <div className="mt-4 h-1 w-12 bg-blue-600 mx-auto rounded" />
           <p className="mt-4 text-base sm:text-lg text-gray-500 font-normal leading-relaxed">
             주식회사 아이엠은 공공 및 민간 부문의 중요 자산인 기록물을 안전하게 보존하고,
-            가치 있게 활용할 수 있도록 돕는 기록관리 및 DB구축 파트너입니다.
+            가치 있게 활용할 수 있도록 돕는 <br /> 기록관리 및 DB구축 파트너입니다.
           </p>
         </div>
 
@@ -42,18 +42,18 @@ export default function About() {
           
           {/* Left Text Detail */}
           <div className="lg:col-span-6 space-y-6 md:space-y-8">
-            <div className="space-y-4">
-              <span className="text-sm font-semibold text-blue-600 bg-blue-50 px-3 py-1 rounded-full">
+            <div className="space-y-5 sm:space-y-6">
+              <span className="inline-block text-sm font-semibold text-blue-600 bg-blue-50 px-3 py-1 rounded-full">
                 회사 개요
               </span>
-              <h3 className="text-2xl sm:text-3xl font-extrabold text-gray-900 tracking-tight">
+              <h3 className="text-lg sm:text-2xl md:text-3xl lg:text-2xl xl:text-3xl font-extrabold text-gray-900 tracking-tight whitespace-nowrap">
                 주식회사 아이엠은 기록물 전문 서비스 기업입니다
               </h3>
               <p className="text-gray-600 leading-relaxed">
-                당사는 2022년에 창업한 이래, 국가기록원, 대통령기록관, 다수 공공기관 등 국가 중요기록물의 수집/보존/관리/활용을 위한 기록물 사업을 전문적으로 수행하고 있습니다.
+                당사는 2022년에 창업한 이래, 국가기록원, 대통령기록관, 다수 공공기관 등 중요 <br />기록물의 수집/보존/관리/활용을 위한 기록물 사업을 전문적으로 수행하고 있습니다.
               </p>
               <p className="text-gray-600 leading-relaxed">
-                공공기록물법 및 국가물관리 표준 및 지침을 완벽 준수하며, 고난이도 비전자 문서정리, 시청각 콘텐츠의 디지털 변환, 초정밀 OCR 솔루션 구축 등 최고 품질의 데이터구축을 약속드립니다.
+                공공기록물법 및 국가물관리 표준 및 지침을 완벽 준수하며, 고난이도 비전자 문서정리, 시청각 콘텐츠의 디지털 변환, 초정밀 OCR 솔루션 구축 등 최고 품질의 데이터구축을 <br /> 약속드립니다.
               </p>
             </div>
 

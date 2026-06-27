@@ -99,7 +99,7 @@ export default function Contact() {
           </p>
           <div className="mt-4 h-1 w-12 bg-blue-600 mx-auto rounded" />
           <p className="mt-4 text-base sm:text-lg text-gray-500 font-normal leading-relaxed">
-            비전자 기록물의 실태 조사부터 DB 이관까지 상세 사안을 맞춤 상담해 드립니다.
+            보유 기록물의 실태 조사부터 DB 이관까지 상세 사안을 맞춤 상담해 드립니다.
           </p>
         </div>
 
@@ -182,7 +182,7 @@ export default function Contact() {
                   </div>
                   <h3 className="text-2xl font-extrabold text-gray-900">문의가 정상 접수되었습니다!</h3>
                   <p className="text-sm text-gray-500 max-w-md mx-auto leading-relaxed">
-                    작성해 주신 이메일(<span className="font-semibold text-gray-700">{formData.email}</span>) 및 대표번호로 담당 실무 전문가가 신속하게 검토 후 기재해주신 연락처로 즉시 회신드리겠습니다.
+                    작성해 주신 이메일(<span className="font-semibold text-gray-700">{formData.email}</span>) 및 대표번호로 담당 실무전문가가 신속하게 검토 후 회신드리겠습니다.
                   </p>
                 </div>
               ) : (
@@ -190,7 +190,7 @@ export default function Contact() {
                   <div className="text-left border-b border-gray-100 pb-4 mb-6">
                     <h3 className="text-xl font-extrabold text-gray-900">기록관리 온라인 간편 문의</h3>
                     <p className="text-xs text-gray-400 mt-1">
-                      필수 입력 항목은 꼼꼼히 채워주시면 한층 명확한 설계 지원이 가능합니다.
+                      필수 입력 항목은 꼼꼼히 채워주시면 한층 상세한 상담/지원이 가능합니다.
                     </p>
                   </div>
 
@@ -287,7 +287,7 @@ export default function Contact() {
                       onChange={handleChange}
                       required
                       rows={4}
-                      placeholder="기록물의 종류(문서, 도면, 시청각 등), 보관 수량, OCR 구축 희망 여부 등을 기재해주시면 한층 정밀한 상담이 가능합니다."
+                      placeholder="기록물의 종류(문서, 도면, 시청각 등), 보관 수량, OCR 구축 희망 여부 등을 기재해 주시면 한층 상세한 상담이 가능합니다."
                       className="w-full bg-slate-50 border border-gray-200 focus:border-blue-500 rounded-xl px-4 py-3 text-sm focus:outline-none transition-colors resize-none"
                     />
                   </div>

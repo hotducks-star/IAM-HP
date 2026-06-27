@@ -103,7 +103,7 @@ export default function Hero() {
                 className="text-lg text-gray-600 max-w-xl leading-relaxed font-normal"
               >
                 (주)아이엠은 신뢰할 수 있는 국내 최고 수준의 기록물 관리 전문 기업입니다. <br />
-                중요기록물 분류·정리부터 고성능 스캔, 메타데이터 구축/OCR 텍스트 정제 등 <br />
+                중요기록물 분류·정리부터 고성능스캔, 메타데이터/OCR 추출 및 정제 등 <br />
                 완벽한 기록물정리 및 DB구축, 안전한 이관까지 원스톱으로 제공합니다.
               </motion.p>
             </div>
@@ -128,7 +128,7 @@ export default function Hero() {
                 onClick={(e) => handleCtaClick(e, "#services")}
                 className="inline-flex items-center justify-center px-6 py-3.5 rounded-xl bg-white border border-gray-200 text-gray-700 font-medium hover:bg-gray-50 hover:border-gray-300 transition-all shadow-sm"
               >
-                핵심 서비스 안내
+                주요 서비스
               </a>
             </motion.div>
 

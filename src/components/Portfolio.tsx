@@ -82,7 +82,7 @@ export default function Portfolio() {
           </p>
           <div className="mt-4 h-1 w-12 bg-blue-600 mx-auto rounded" />
           <p className="mt-4 text-base sm:text-lg text-gray-500 font-normal leading-relaxed">
-            중앙영구기록관리기관부터 지방정부, 민간기관까지 주식회사 아이엠의 엄격한 품질관리를 거쳐 간 기록유산입니다.
+            중앙영구기록관리기관부터 지방정부, 민간기관까지 <br />주식회사 아이엠의 엄격한 품질관리를 거쳐 간 기록유산입니다.
           </p>
         </div>
 
@@ -189,8 +189,8 @@ export default function Portfolio() {
             
             <div className="lg:col-span-2 grid grid-cols-1 sm:grid-cols-3 gap-6 md:gap-8">
               {[
-                { title: "기록관리전문가 매칭", desc: "국가기록원과 대통령기록관 및 공공기관 기록물 정리/DB구축 및 데이터 이관을 주도한 최정예 기록관리실무전문가가 책임 관리합니다." },
-                { title: "첨단스캔·OCR기기", desc: "고문서용 북스캐너, 고해상도 평판/자동 급지 기기 및 오차율을 최소화하는 하이테크 OCR 솔루션을 제공합니다." },
+                { title: "기록관리전문가 매칭", desc: "국가기록원과 대통령기록관 및 공공기관 기록물정리/DB구축 및 데이터이관을 주도한 최정예 기록관리실무전문가가 책임 관리합니다." },
+                { title: "첨단스캔·OCR기기", desc: "고문서용 북스캐너, 고해상도 평판/자동 스캐너 및 오차율을 최소화하는 하이테크 OCR 솔루션을 제공합니다." },
                 { title: "최상의 보안관리", desc: "수행팀 전원 신원보증 및 체계적인 보안관리 통제하에 철저한 기밀유지 확보 및 보안사고 Zoro화를 달성합니다." }
               ].map((val, idx) => (
                 <div key={idx} className="space-y-2">

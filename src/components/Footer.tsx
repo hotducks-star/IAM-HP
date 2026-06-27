@@ -30,7 +30,7 @@ export default function Footer() {
               </div>
             </div>
             <p className="text-xs sm:text-sm text-slate-400 max-w-sm leading-relaxed font-normal">
-              최고 수준의 안전성과 초정밀 디지털화 장비 및 기술력을 바탕으로, 국가기록원 및 공공기관의 중요 국가기록물 사업을 완벽하게 수행합니다.
+              최고 수준의 안전성과 초정밀 디지털화 장비 및 기술력을 바탕으로, 국가기록원 및 공공기관의 중요기록물 정리/DB구축을 완벽하게 수행합니다.
             </p>
           </div>
 
